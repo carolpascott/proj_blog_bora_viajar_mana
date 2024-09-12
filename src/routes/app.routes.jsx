@@ -14,7 +14,7 @@ import { Pg9_Itacare } from '../pages/Pg9_Itacare/'
 export function AppRoutes() {
     return(
         <Routes>
-            <Route path='https://github.com/carolpascott/proj_blog_bora_viajar_mana' element={ <Home /> } />
+            <Route path='/' element={ <Home /> } />
             <Route path='/pouso' element={ <Pg1_Pouso /> } />
             <Route path='/guna' element={ <Pg2_GunaYala /> } />
             <Route path='/paracas' element={ <Pg3_Paracas /> } />
