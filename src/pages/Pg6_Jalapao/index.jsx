@@ -24,7 +24,7 @@ export function Pg6_Jalapao() {
         Oh, nem perceberam que era feriado.       
         </p>
         <p>
-        Maior frio em SP, no sudeste inteiro. Muito frio mesmo. Entrei no site vou de trip e achei uma viagem pro Jalapão com tudo incluso. Opa, minha chance. 
+        Maior frio em SP, no sudeste inteiro. Entrei no site vou de trip e achei uma viagem pro Jalapão com tudo incluso. Opa, minha chance. 
         Boy não gostou, não. “As melhores viagens vc quer ir sozinha.” Pois é, tenho bom gosto e prazer em gastar minha grana com viagem. Mas ok, voltei no site e procurei outro lugar pra ir sozinha.
         Só viagens pro Sudeste e Sul, lembra que falei que estava frio? Foda-se, eu vou pro Jalapão.
         Segundo ele, não era sobre eu viajar sozinha, mas sim o local. Afinal, ele vivia viajando sozinho pros congresso dele e eu não ia pq trabalhava.
@@ -42,7 +42,7 @@ export function Pg6_Jalapao() {
         Já adianto que o Jalapão não é pra qualquer um, não só pelo preço, mas pela viagem em si. Passamos muito tempo dentro do carro 4x4, muitas vezes apertado e quente. É tipo um circuito, então trocamos de pousada todos os dias. 
         </p>
         <p>
-        Os fervedouros são as principais atrações, é algo único na natureza. Não sabe nadar? Não tem problema, vc não vai afundar. As águas são muito limpas, cada fervedor tem suas características únicas. Maaas, pra manter preservada essa maravilha só é possível ficar 20 minutos em cada fervedouro, não pode passar protetor solar antes de entrar, as regras são rígidas. 
+        Os fervedouros são as principais atrações, é algo único na natureza. Não sabe nadar? Não tem problema, vc não vai afundar. Cada fervedouro tem suas características únicas. Maaas, normalmente, só é possível ficar 20 minutos em cada fervedouro, pra manter preservada essa maravilha não pode passar protetor solar antes de entrar, as regras são rígidas. 
         </p>
         <p>
         Fui pro Jalapão principalmente por causa dos fervedouros, mas colega, vc não tem ideia da diversidade que este lugar reserva. A cachoeira mais linda que já fui na vida fica por lá, Cachoeira da Formiga. Tbm tem dunas, Pedra Furada, Cânion do Sussuapara. Não é um destino barato e muito menos para quem gosta de conforto, mas se vc curte natureza e diversidade, vá! Vale cada centavo gasto.
@@ -53,7 +53,7 @@ export function Pg6_Jalapao() {
             Já falei algumas vezes que o Jalapão não é barato, né. Mas o que encareceu minha viagem foi o voo. Se eu tivesse comprado com antecedência teria saído mais barato.  
             </li>
             <li>
-            Essa é uma viagem que é importante ir com agência, pelo menos local. Os carros tem que ser 4x4, não há sinalização na estrada. Há várias opções de pacotes tanto de agências de SP, com ou sem voo, como agências locais.
+            Essa é uma viagem que é importante ir com agência. Os carros tem que ser 4x4, não há sinalização na estrada. Há várias opções de pacotes tanto de agências de SP, com ou sem voo, como agências locais.
             </li>
             <li>
             Quer muito conhecer o Jalapão mas seus amigos, companheira(o) e/ou família são do tipo “fresco”? Vá sozinha. 

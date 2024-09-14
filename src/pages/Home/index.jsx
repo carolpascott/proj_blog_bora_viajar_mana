@@ -22,13 +22,30 @@ export function Home() {
 
       <header>
           <h1>Bora viajar, mana?</h1>
-          <div class="htext">
-              <h2>
-                  Querendo viajar e não sabe pra onde nem com quem ir?                     
-              </h2>
+          <div class="htext">              
               <p>
-                  Vem comigo que vou te dar dicas baseadas em algumas viagens que fiz.
-                  Todas essas viagens eu fiz sozinha e recomendo fortemente que vocês façam o mesmo.
+              Olá, pra quem não me conhece sou a <span >Carol Pascott</span>!!!
+              </p>
+              <p>
+              Neste ano de 2024, eu completei dez anos da minha primeira viagem sozinha e tive o prazer de participar do <span>Pirilampo Cast</span> e contar um pouquinho de algumas histórias vividas durante algumas delas.   
+              </p>
+              <p>
+              Aproveitei a oportunidade e estou deixando público esse mini blog que comecei a fazer há alguns meses. A idealização desta página começou com uma tarefa, que deveria ser simples, de um curso de desenvolvimento web que eu estava fazendo mas, eu me empolguei! Hahah    
+              </p>
+              <p>
+              Em suma, todo esse site foi desenvolvido por mim, não só os textos e fotos como também cada linha de código responsável pela estrutura, aparência e funcionalidade deste. Para os devs e/ou curiosos, o link do projeto no meu github está <a href="https://github.com/carolpascott/proj_blog_bora_viajar_mana" target="_blank">aqui.</a>   
+              </p>
+              <p>
+              Contudo, eu não tive tempo e nem terei para finalizar o site como eu gostaria. Então me perdoem mas vai assim mesmo, heheh. O público da <a href="https://www.instagram.com/vagalumetrip" target="_blank">@vagalumetrip</a>, e consequentemente do Pirilampos Cast, é formado em sua maioria por mulheres que viajam sozinhas então decidi compartilhar esses textões e dicas que já estavam escritos e guardados. <span>Espero que sirva de inspiração pra alguém que está com vontade de viajar e não sabe pra onde nem com quem ir.</span>    
+              </p>
+              <p>
+              Bora viajar, mana? Aqui você vai encontrar alguns relatos e dicas de viagens que eu fiz sozinha. Escolhi as mais diversas e nem todas as dicas padrão que se encontram em todo canto eu inclui, porque já estão em todo canto, né! Clique nas fotos, e bora ler! Ah, aqui a prioridade não é foto, mas para as viagens que fiz a partir de 2022 há fotos no feed e nos destaques do meu insta <a href="https://www.instagram.com/carol_pascott" target="_blank">@carol_pascott</a>. O restante está no face, sou 30+.    
+              </p>
+              <p>
+              Sei que a maioria não vai ter coragem de ler esse monte de texto mas pra você, que leu pelo menos um textão, me chame na DM do insta se achar que ficaria bacana uma versão em podcast. Mas já adianto que provavelmente terá uma versão só de perrengues no Pirilampo Cast com a minha participação tbm!!!    
+              </p>
+              <p>
+              Ah, esse é um site responsivo, então a aparência dele muda dependendo se for aberto no celular ou no computador. Se estiver muito bugado no celular me avisem, ok? É isso, manas, e pra quem tiver coragem e disposição, boa leitura.    
               </p>
                               
           </div>

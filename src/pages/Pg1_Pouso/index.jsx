@@ -53,13 +53,13 @@ export function Pg1_Pouso() {
         </p>
         <ol>
             <li>
-            Se possível, peça recomendações de agências a colegas. Pra Pouso, as duas vezes, fui com a Vagalume Trip. O Higor é muito atencioso e, como já disse anteriormente, tem um público grande de mulheres que viajam sozinhas. Com ele tbm já viajei pro Búzios (conheci até praia naturista com mais duas minas), São Thóme das Letras (o Higor foi um amor e fez esse destino por causa do meu aniversário 🧡), Ilha do Mel (segundo carnaval com a Vagalume) e tá na minha mira Ilha de Jaguanum e Pouso novamente. Sempre que viajo com ele, encontro uma galerinha de outras viagens. Ah, um site que eu curto bastante é o Vou de Trip, lá há muitas agências para diversos destinos, todas com cadastur.
+            Se possível, peça recomendações de agências a colegas. Pra Pouso, as duas vezes, fui com a Vagalume Trip. O Higor é muito atencioso e, como já disse anteriormente, tem um público grande de mulheres que viajam sozinhas. Com ele tbm já viajei pra Búzios (conheci até praia naturista com mais duas minas);  Duas vezes pra São Thóme das Letras (o Higor foi um amor e fez esse destino por causa do meu aniversário 🧡); Ilha do Mel (segundo carnaval com a Vagalume); Ilha de Jaguanum (mais um lugar que eu desconhecia e amei); e tá na minha mira Pouso novamente. Sempre que viajo com ele, encontro uma galerinha de outras viagens. Ah, um site que eu curto bastante é o Vou de Trip, lá há muitas agências para diversos destinos, todas com cadastur. Inclusive, conheci a Vagalume e outras agências que já viajei através deste site.
             </li>
             <li>
             Existem agências para todos os públicos, vale pesquisar, ler avaliações e decidir por aquela que se parece mais com seu perfil. Siga as redes sociais e repare nas fotos da agência, dá pra ter um indicativo de público alvo dela. Às vezes é mais família, turminha da bagunça, mulheres… Já tá no meio da viagem e têm pouca ou nenhuma pessoa solo? Cola no guia, eles são sempre solícitos e dão várias dicas. Caso esteja na vibe de ficar na sua própria cia, não se preocupe, vá ler seu livro, tirar seu cochilo na rede ou na canga, tá tudo bem.
             </li>
             <li>
-            Mulheres! Nesses quase dez anos de viajante solo posso dizer que sempre encontro mais mulheres viajando sozinha do que homens, aqui no Brasil. Sigam mulheres que viajam, principalmente as que viajam sozinhas, e se inspirem nelas. Algumas delas fazem expedições tanto pro Brasil como pro exterior.
+            Mulheres! Nesses dez anos de viajante solo posso dizer que sempre encontro mais mulheres viajando sozinhas do que homens aqui no Brasil. Sigam mulheres que viajam, principalmente as que viajam sozinhas, e se inspirem nelas. Algumas delas fazem expedições tanto pro Brasil como pro exterior.
             </li>
             <li>
             Trip é muito bom para viagens bate e volta, fds e feriado. É muito prático, mas saiba que a vibe do busão pode ser mais bagunçada do que aquela dos ônibus intermunicipais. Esteja preparada pra isso, vá leve, não deixe que pequenos detalhes estraguem sua viagem. Afinal, trip é uma viagem compartilhada.
@@ -74,7 +74,7 @@ export function Pg1_Pouso() {
             Desconectar! Sinal de celular em locais mais afastados pode ser precário. Tem wifi mas com a casa cheia não funciona. Avise as pessoas próximas sobre isso e use o celular só pra tirar umas fotos. Aproveite.
             </li>
             <li>
-            Há poucos anos atrás nem tinha energia em Pouso. Pode ser que seu chuveiro pare de funcionar do nada e vc tenha que tomar banho no quarto vizinho. Umas das minhas alegrias na última viagem foi eu ir pro banheiro tomar um banho gelado e ter descoberto que o chuveiro tinha voltado a funcionar depois de uma queda de energia! Hahah E, aproveite a escuridão da noite pra deitar na areia e admirar o céu, em Pouso dá pra ver estrelas cadentes 🌠
+            Há poucos anos atrás nem tinha energia elétrica em Pouso. Pode ser que seu chuveiro pare de funcionar do nada e vc tenha que tomar banho no quarto vizinho. Umas das minhas alegrias na última viagem foi eu ir pro banheiro tomar um banho gelado e ter descoberto que o chuveiro tinha voltado a funcionar depois de uma queda de energia! Hahah E, aproveite a escuridão da noite pra deitar na areia e admirar o céu, em Pouso dá pra ver estrelas cadentes 🌠
             </li>
             <li>
             Mana, nem todo lugar é essa loucura típica de cidade grande como São Paulo. Vá pedir sua comida antes da fome, espere batendo um papo, bebendo um Jorge Amado e uma breja. Calma. 

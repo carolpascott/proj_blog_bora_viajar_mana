@@ -7,12 +7,13 @@ import px2rem from "../../utils/px2rem";
 export const Container = styled.div`
     
     max-width: ${px2rem(35)};
+    padding: ${px2rem(1)};
     margin: auto;
 
     background-color: ${ ({theme}) => theme.COLORS1.BG};
         
     header {
-        height: ${px2rem(40)};
+        height: ${px2rem(155)};
 
         h1 {
             text-align: center;
@@ -27,7 +28,7 @@ export const Container = styled.div`
             padding: ${px2rem(2)} ${px2rem(.5)} ${px2rem(2)};
         }
 
-        h2 {
+        /* h2 {
             text-align: center;
             font-weight: 700;    
             font-size: ${px2rem(2)};
@@ -35,14 +36,21 @@ export const Container = styled.div`
             color: ${ ({theme}) => theme.COLORS1.HD};
 
             line-height: ${px2rem(3)};
-        }
+        } */
 
         p {
             color: ${ ({theme}) => theme.COLORS1.H1};
 
             line-height: ${px2rem(2)};
 
-            padding: ${px2rem(2)} ${px2rem(.5)} ${px2rem(2)};
+            padding: ${px2rem(1)} ${px2rem(.5)} ${px2rem(1)};
+        }
+
+        p a,
+        span {
+            text-decoration: none;
+            font-weight: 600;
+            color: ${ ({theme}) => theme.COLORS1.H1};
         }
     }
 
@@ -70,7 +78,7 @@ export const Container = styled.div`
             width: ${px2rem(72)};
             margin: auto;
 
-            height: ${px2rem(30)};
+            height: ${px2rem(100)};
             padding-top: ${px2rem(4)};
         }
 

@@ -88,11 +88,9 @@ export function Pg4_RotaEmocoes() {
 
             <li>Deixa a vida te levar! Tenha sua listinha de lugares pra viajar, mas sempre deixe aberto para novos destinos. Como falei no começo, entre conhecer a Rota das Emoções e ir, não demorou um ano. Fiquei encantada, precisava conhecer esses lugares desse jeitinho. Foi lindo!</li>
 
-            <li>Especialmente nas primeiras viagens solo, opte por lugares mais seguros, cidades, vilas menores. Em Jeri não há iluminação nas ruas, apenas das casas e comércios. A primeira coisa que me falaram no hostel foi isso e sobre a segurança: “É escuro em alguns lugares? Sim. Mas você estará segura aqui.”</li>
+            <li>Especialmente nas primeiras viagens solo, opte por lugares mais seguros, cidades, vilas menores. Em Jeri não há iluminação nas ruas, apenas das casas e comércios. A primeira coisa que me falaram no hostel foi isso e sobre a segurança: “É escuro em alguns lugares? Sim. Mas você estará segura aqui.”. Em algumas ocasiões andei sozinha à noite por lá, e realmente me senti muito segura. Leve em consideração a localização da sua hospedagem quando for reservar. Leia os comentários das mulheres. Mas, se sua vibe é mais cidade grande, se joga também. E tome os mesmos cuidados que já está acostumada. Prefira Uber, avise a conhecidos onde está.</li>
 
-            <li>Em algumas ocasiões andei sozinha à noite por lá, e realmente me senti muito segura. Leve em consideração a localização da sua hospedagem quando for reservar. Leia os comentários das mulheres. Mas, se sua vibe é mais cidade grande, se joga também. E tome os mesmos cuidados que já está acostumada. Prefira Uber, avise a conhecidos onde está.</li>
-
-            <li>Vim do futuro pra dar essa dica, hahah. Uma viagem recente que fiz foi pro Atacama e Salar do Uyuni (junho 24). E foi mais ou menos em meia hora que decidi comprar a passagem pro Atacama e ir sozinha, promoções mexem comigo! kkkk Imagina se eu ia conseguir convencer alguém a fazer essa loucura?! Nem sabia exatamente o que ia encontrar lá! Mas, tá aí mais uma vantagem de viajar sozinha, você decide quando, como e onde. Só vai!</li>
+            <li>Uma viagem recente que fiz foi pro Atacama e Salar do Uyuni e foi mais ou menos em meia hora que decidi comprar a passagem pra lá e ir sozinha, promoções mexem comigo! kkkk Imagina se eu ia conseguir convencer alguém a fazer essa loucura?! Nem sabia exatamente o que ia encontrar lá! Mas, tá aí mais uma vantagem de viajar sozinha, você decide quando, como e onde. Só vai!</li>
 </ol>
 
         <footer>

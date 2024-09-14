@@ -27,7 +27,7 @@ export function Pg5_MorroSP() {
         Mas a primeira vez que eu realmente tentei ir pra Morro eu estava em um relacionamento. E claro que o queridão só colocou defeito e achou caro. Por fim, fomos pra Minas. Não vou ser injusta, foi uma viagem boa, Minas não tem como ser ruim. Apesar da gente ter brigado em plena véspera de ano novo e ter ficado tão caro quanto ficaria Morro mas por motivos de cachaça e não de voo, catamarã e passeios de barco…
         </p>
         <p>
-        Enfim, manas, dramin é essencial, hein! Muita gente passa mal no catamarã, especialmente na volta. Pra mim na ida foi tranquilo e a volta eu fui de meio semi-terrestre. Mas assim, demora muuuuito. Foram 6hs de trajeto contra 2h30 que seriam de catamarã. 
+        Enfim, manas, pra Morro de SP dramin é essencial, hein! Muita gente passa mal no catamarã, especialmente na volta. Pra mim na ida foi tranquilo e a volta eu fui de meio semi-terrestre. Mas assim, demora muuuuito. Foram 6hs de trajeto contra 2h30 que seriam de catamarã. 
         </p>
         <p>
         Primeira vez que escolhi pousada em uma viagem sozinha, estava na vibezinha de ficar de boas. Pousada é mais difícil de fazer amizade se comparado com hostel. E a pousada que escolhi foi na quarta praia, a penúltima, ou seja, era bem afastada.
@@ -42,12 +42,12 @@ export function Pg5_MorroSP() {
         Retornei, a moça não estava mais lá, só a barraquinha. Fui refazendo o caminho que fiz anteriormente, passei na muvuquinha e fui pra praia, vi o lixo que joguei a embalagem do crepe e vi algo refletindo a luz da lua por perto… Meu celular! Uffa… 
         </p>
         <p>
-        Os outros dias foram só alegria e apesar de estar numa pousada distante fiz amizade com uma guria do Sul, nos conhecemos na praia. Fomos na tirolesa, que vista mais linda, o final dela é no mar!!! 
+        Os outros dias foram só alegria e apesar de estar numa pousada distante fiz amizade com uma guria do Sul, nos conhecemos na praia. Fomos na tirolesa, que vista mais linda, o final dela é no mar!!! Teve um dia que peguei um moto táxi pra chegar mais cedo na pousada, pois queria me arrumar e sair logo. "Eita, que a maré subiu", tive que continuar a pé me segurando nas grades das pousadas, hahah. Sempre tem uma aventura! Mas agora, bora de dicas:
         </p>
            
         <ol>
             <li>
-            Carol do futuro aqui pra trazer uma dica da minha irmã, que foi pra Morro em sua primeira viagem sozinha!!! Na volta ela foi de catamarã e ficou do lado de fora tomando um arzinho (e umas ondas na cara, rs). Foi tranquilo. Mas lá dentro tinha muita gente vomitando!!! A volta é contra a correnteza, balança muito! Mas um dramin e ar fresco ajudam. 
+            E a primeira dica veio da minha irmã, que foi pra Morro em sua primeira viagem sozinha!!! Na volta ela foi de catamarã e ficou do lado de fora tomando um arzinho (e umas ondas na cara, rs). Foi tranquilo. Mas lá dentro tinha muita gente vomitando!!! A volta é contra a correnteza, balança muito! Mas um dramin e ar fresco ajudam. Então eu realmente não recomendo o trajeto semi-terrestre.
             </li>
             <li>
             Sua viagem, suas regras. Em uma das noites já estava trocada para sair e ir pra segunda praia, mas meu livro estava tão delicioso que decidi permanecer na rede lendo e comendo amendoim (mesmo tendo restaurante na pousada). Isso é liberdade, manas. Você decide o que fazer e está tudo bem!
@@ -56,7 +56,7 @@ export function Pg5_MorroSP() {
             Não se desespere, perrengues acontecem. A lição que ficou com a perda temporária do meu celular foi: atenção a seus pertences; mantenha cópias de documentos e informações importantes no email; peça ajuda, uma simples conversa salvou minha noite, minha viagem.
             </li>
             <li>
-            Antes só do que mal acompanhada. Eu tenho certeza que eu me diverti muito mais sozinha do que se tivesse insistido uns anos atrás pra ir com meu ex. Se afaste de pessoas que põe defeito em tudo, independente de onde esteja. Sabe pq viajar sozinha é tão incrível? Geralmente encontramos pessoas que estão vibrando na mesma sintonia que nós. Tudo flui bem, a vibe bate! E se só quiser ficar sozinha, tá tudo bem tbm. A solitude é maravilhosa, esteja bem consigo antes de procurar a felicidade em outra pessoa.
+            Antes só do que mal acompanhada. Eu tenho certeza que eu me diverti muito mais sozinha do que se tivesse insistido uns anos atrás pra ir com meu ex. Se afaste de pessoas que põe defeito em tudo, independente de onde esteja. Sabe pq viajar sozinha é tão incrível? Geralmente encontramos pessoas que estão vibrando na mesma frequência que nós. Tudo flui bem, a vibe bate! E se só quiser ficar sozinha, tá tudo bem tbm. A solitude é maravilhosa, esteja bem consigo antes de procurar a felicidade em outra pessoa.
             </li>
             <li>
             Existem viagens e viagens. Você pode gostar de viajar com amigos, com família, com companheira(o) e sozinha. Podem ser viagens completamente diferentes e ambas podem ser ótimas! Não deixe de viajar, mas saiba o que vc quer, pense em vc tbm.
