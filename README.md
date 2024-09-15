@@ -8,7 +8,7 @@ A primeira versão, que está em outro repositório, eu fiz em html e css e era 
 
 Já este  projeto eu fiz com intuito de ser um blog pessoal, então tem a página inicial e mais nove. Utilizei ReactJS e Vite. O deploy foi feito com Vercel.    
 
-O site pode ser acessado através deste [link](https://bora-viajar-mana.vercel.app)
+O site pode ser acessado através deste [link](https://boraviajarmana.vercel.app)
 
 <p align="center">
   <img alt="blog pessoal: Bora viajar, mana?" src=".github/preview01.png" width="100%">
